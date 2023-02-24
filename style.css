@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+footer {
+    
+	fixed-bottom;  width: 100%; 
+ 
+}
+body{
+	background:#761424}
+
+a:hover { 
+  background-color: #383838; /* #FFB84C;*/
+}
+
+.profil{float:left;  margin-left:-10px;}
+.profil img{width:1100px; height:270px; border-radius:40px;}
+/*.profil img{width:210px; height:270px; border-radius:120px;}*/
+
+.sertifika img{width:210px; height:270px;}
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+  }
+  
+  .fa:hover {
+	  opacity: 0.7;
+  }
+
