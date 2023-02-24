@@ -1,1 +1,0 @@
-# bariscanbilgen.github.io
